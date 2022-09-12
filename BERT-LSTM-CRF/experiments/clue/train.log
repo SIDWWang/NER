@@ -1,0 +1,170 @@
+2022-09-11 22:42:47,311:INFO: device: cuda:0
+2022-09-11 22:42:47,312:INFO: --------Process Done!--------
+2022-09-11 22:42:47,466:INFO: Model name 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' is a path or url to a directory containing tokenizer files.
+2022-09-11 22:42:47,467:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/vocab.txt. We won't load it.
+2022-09-11 22:42:47,467:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/added_tokens.json. We won't load it.
+2022-09-11 22:42:47,468:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/special_tokens_map.json. We won't load it.
+2022-09-11 22:42:47,468:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/tokenizer_config.json. We won't load it.
+2022-09-11 23:27:50,952:INFO: device: cuda:0
+2022-09-11 23:27:50,953:INFO: --------Process Done!--------
+2022-09-11 23:27:51,099:INFO: Model name 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' is a path or url to a directory containing tokenizer files.
+2022-09-11 23:27:51,100:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/vocab.txt. We won't load it.
+2022-09-11 23:27:51,101:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/added_tokens.json. We won't load it.
+2022-09-11 23:27:51,101:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/special_tokens_map.json. We won't load it.
+2022-09-11 23:27:51,101:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/tokenizer_config.json. We won't load it.
+2022-09-11 23:28:20,331:INFO: device: cuda:0
+2022-09-11 23:28:20,332:INFO: --------Process Done!--------
+2022-09-11 23:28:20,471:INFO: Model name 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' is a path or url to a directory containing tokenizer files.
+2022-09-11 23:28:20,472:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/added_tokens.json. We won't load it.
+2022-09-11 23:28:20,476:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/special_tokens_map.json. We won't load it.
+2022-09-11 23:28:20,477:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/tokenizer_config.json. We won't load it.
+2022-09-11 23:28:20,478:INFO: loading file pretrained_bert_models/chinese_roberta_wwm_large_ext/vocab.txt
+2022-09-11 23:28:20,478:INFO: loading file None
+2022-09-11 23:28:20,478:INFO: loading file None
+2022-09-11 23:28:20,479:INFO: loading file None
+2022-09-11 23:28:30,115:INFO: Model name 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' is a path or url to a directory containing tokenizer files.
+2022-09-11 23:28:30,116:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/added_tokens.json. We won't load it.
+2022-09-11 23:28:30,116:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/special_tokens_map.json. We won't load it.
+2022-09-11 23:28:30,116:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/tokenizer_config.json. We won't load it.
+2022-09-11 23:28:30,117:INFO: loading file pretrained_bert_models/chinese_roberta_wwm_large_ext/vocab.txt
+2022-09-11 23:28:30,117:INFO: loading file None
+2022-09-11 23:28:30,118:INFO: loading file None
+2022-09-11 23:28:30,118:INFO: loading file None
+2022-09-11 23:28:31,183:INFO: --------Dataset Build!--------
+2022-09-11 23:28:31,192:INFO: --------Get Dataloader!--------
+2022-09-11 23:28:31,192:INFO: loading configuration file pretrained_bert_models/chinese_roberta_wwm_large_ext/config.json
+2022-09-11 23:28:31,193:INFO: Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "directionality": "bidi",
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "is_decoder": false,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "num_labels": 31,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "output_past": true,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "use_bfloat16": false,
+  "vocab_size": 21128
+}
+
+2022-09-11 23:28:31,193:INFO: loading weights file pretrained_bert_models/chinese_roberta_wwm_large_ext/pytorch_model.bin
+2022-09-11 23:29:52,897:INFO: device: cuda:0
+2022-09-11 23:29:52,897:INFO: --------Process Done!--------
+2022-09-11 23:29:53,050:INFO: Model name 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' is a path or url to a directory containing tokenizer files.
+2022-09-11 23:29:53,051:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/added_tokens.json. We won't load it.
+2022-09-11 23:29:53,052:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/special_tokens_map.json. We won't load it.
+2022-09-11 23:29:53,052:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/tokenizer_config.json. We won't load it.
+2022-09-11 23:29:53,053:INFO: loading file pretrained_bert_models/chinese_roberta_wwm_large_ext/vocab.txt
+2022-09-11 23:29:53,053:INFO: loading file None
+2022-09-11 23:29:53,053:INFO: loading file None
+2022-09-11 23:29:53,054:INFO: loading file None
+2022-09-11 23:30:02,647:INFO: Model name 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' is a path or url to a directory containing tokenizer files.
+2022-09-11 23:30:02,648:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/added_tokens.json. We won't load it.
+2022-09-11 23:30:02,649:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/special_tokens_map.json. We won't load it.
+2022-09-11 23:30:02,649:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/tokenizer_config.json. We won't load it.
+2022-09-11 23:30:02,650:INFO: loading file pretrained_bert_models/chinese_roberta_wwm_large_ext/vocab.txt
+2022-09-11 23:30:02,650:INFO: loading file None
+2022-09-11 23:30:02,650:INFO: loading file None
+2022-09-11 23:30:02,651:INFO: loading file None
+2022-09-11 23:30:03,770:INFO: --------Dataset Build!--------
+2022-09-11 23:30:03,770:INFO: --------Get Dataloader!--------
+2022-09-11 23:30:03,772:INFO: loading configuration file pretrained_bert_models/chinese_roberta_wwm_large_ext/config.json
+2022-09-11 23:30:03,774:INFO: Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "directionality": "bidi",
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "is_decoder": false,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "num_labels": 31,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "output_past": true,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "use_bfloat16": false,
+  "vocab_size": 21128
+}
+
+2022-09-11 23:30:03,776:INFO: loading weights file pretrained_bert_models/chinese_roberta_wwm_large_ext/pytorch_model.bin
+2022-09-11 23:33:50,664:INFO: device: cuda:0
+2022-09-11 23:33:50,664:INFO: --------Process Done!--------
+2022-09-11 23:33:50,812:INFO: Model name 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' is a path or url to a directory containing tokenizer files.
+2022-09-11 23:33:50,812:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/added_tokens.json. We won't load it.
+2022-09-11 23:33:50,813:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/special_tokens_map.json. We won't load it.
+2022-09-11 23:33:50,814:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/tokenizer_config.json. We won't load it.
+2022-09-11 23:33:50,814:INFO: loading file pretrained_bert_models/chinese_roberta_wwm_large_ext/vocab.txt
+2022-09-11 23:33:50,814:INFO: loading file None
+2022-09-11 23:33:50,815:INFO: loading file None
+2022-09-11 23:33:50,815:INFO: loading file None
+2022-09-11 23:34:00,514:INFO: Model name 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'pretrained_bert_models/chinese_roberta_wwm_large_ext/' is a path or url to a directory containing tokenizer files.
+2022-09-11 23:34:00,515:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/added_tokens.json. We won't load it.
+2022-09-11 23:34:00,516:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/special_tokens_map.json. We won't load it.
+2022-09-11 23:34:00,517:INFO: Didn't find file pretrained_bert_models/chinese_roberta_wwm_large_ext/tokenizer_config.json. We won't load it.
+2022-09-11 23:34:00,520:INFO: loading file pretrained_bert_models/chinese_roberta_wwm_large_ext/vocab.txt
+2022-09-11 23:34:00,520:INFO: loading file None
+2022-09-11 23:34:00,520:INFO: loading file None
+2022-09-11 23:34:00,520:INFO: loading file None
+2022-09-11 23:34:01,643:INFO: --------Dataset Build!--------
+2022-09-11 23:34:01,643:INFO: --------Get Dataloader!--------
+2022-09-11 23:34:01,645:INFO: loading configuration file pretrained_bert_models/chinese_roberta_wwm_large_ext/config.json
+2022-09-11 23:34:01,645:INFO: Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "directionality": "bidi",
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "is_decoder": false,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "num_labels": 31,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "output_past": true,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "use_bfloat16": false,
+  "vocab_size": 21128
+}
+
+2022-09-11 23:34:01,647:INFO: loading weights file pretrained_bert_models/chinese_roberta_wwm_large_ext/pytorch_model.bin
